@@ -1,0 +1,58 @@
+body {
+	background:url(../Gale/fondopersonaje.png);
+}
+.imagen img{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    height: 500;
+    width: 1100;
+}
+
+.cuerpo img{
+    height: 600;
+    width: 1400;
+    
+    
+}
+.historia{
+    background: url(../Gale/fodoescribir.jpg);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.contenido{
+    padding: 10px;
+    overflow: hidden;
+    flex-wrap: wrap;
+
+    
+}
+.contenido img{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+        
+}
+.contenido p{
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.contenido img{
+    height: 340;
+    width: 300;
+    
+    
+}
+.contenido video{
+    height: 340;
+    width: 300;
+    
+    
+}
